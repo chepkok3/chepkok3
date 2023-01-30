@@ -1,6 +1,6 @@
                                                        ### Hi there 
-                                                       https://tenor.com/bPiXo.gif
-More about me
+                                                       
+More about me](https://tenor.com/view/hand-gif-24581588)
 - 🔭 I’m currently working on HTM, CSSS, JavaScript, React, Boostrap and Python
 - 🌱 I’m currently learning HTM, CSSS, JavaScript, React, Bootstrap and Python
 - 👯 I’m looking to collaborate on HTM, CSS, JavaScript, React and Bootstrap
