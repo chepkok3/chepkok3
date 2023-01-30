@@ -1,6 +1,6 @@
 ### Hi, I am Stanley Kibor
 
-![](https://github.com/README.md/Hi Sticker.gif)
+<p>img align="right" alt="gif" src="https://tenor.com/view/hi-gif-18566082" width="500" height="320" /></p>
                                                        
 More about me
 const stanleyKibor = [ 
