@@ -1,15 +1,11 @@
 ### Hi, I am Stanley Kibor
                                                        
-More about me
-### Hi there 👋, Stanley Kibor
-### Hi there 👋, Stanley Kibor
-#### Web Design and Development
 ![Web Design and Development](a full-time student at Microverse. Currently learning and working with JavaScript, React, and Bootstrap.)
 
 I am a full-time student at Microverse. Currently learning and working with JavaScript, React, and Bootstrap.
 
 
-
+More about me
 Skills: JS / REACT / Bootstrap/ HTML / CSS
 
 - 🔭 I’m currently working on JS and React 
