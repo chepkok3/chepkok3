@@ -19,9 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chepkok3)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chepkok3&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chepkok3)  
-
+ 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=chepkok3)  
 
 ![Profile views](https://gpvc.arturio.dev/chepkok3)  
