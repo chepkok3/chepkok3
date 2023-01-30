@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **chepkok3/chepkok3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on HTM, CSSS, JavaScript, React, Boostrap and Python
@@ -11,4 +10,3 @@
 - 📫 How to reach me: @stanleykibor3, +254720914772
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
