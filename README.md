@@ -1,6 +1,8 @@
 ### Hi, I am Stanley Kibor
 
 <p>img align="right" alt="gif" src="gifs/hi.gif" /></p>
+
+[![Stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=chepkok3)](https://github.com/chepkok3/github-readme-stats)
                                                        
 More about me
 const stanleyKibor = [
@@ -9,4 +11,4 @@ const stanleyKibor = [
 - 👯 I’m looking to collaborate on HTM, CSS, JavaScript, React and Bootstrap
 - 🤔 I’m looking for help with JavaScript, React, HTML and CSS
 - 💬 Ask me about HTML, CSS and JavaScript
-]
+
