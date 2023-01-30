@@ -2,11 +2,7 @@
                                                        
 ![Web Design and Development](a full-time student at Microverse. Currently learning and working with JavaScript, React, and Bootstrap.)
 
-I am a full-time student at Microverse. Currently learning and working with JavaScript, React, and Bootstrap.
-
-
 More about me
-Skills: JS / REACT / Bootstrap/ HTML / CSS
 
 - 🔭 I’m currently working on JS and React 
 - 🌱 I’m currently learning JS, React, Ruby, Rails at Microverse 
