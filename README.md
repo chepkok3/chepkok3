@@ -2,9 +2,7 @@
                                                        
 ### Hi there 👋, Stanley Kibor
 
-[Twitter](https://twitter.com/stanleykibor3).  [![image](https://user-images.githubusercontent.com/78428936/215671438-59d7475b-3ee5-4242-b6c9-add182c82a63.png)
-
-LinkedIn](https://www.linkedin.com/in/kibor-stanley-350b8a123/)
+[Twitter](https://twitter.com/stanleykibor3).  [LinkedIn](https://www.linkedin.com/in/kibor-stanley-350b8a123/)
 
 ![Web Design and Development](a full-time student at Microverse. Currently learning and working with JavaScript, React, and Bootstrap.)
 
