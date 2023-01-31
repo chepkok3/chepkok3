@@ -1,6 +1,6 @@
 ### Hi, I am Stanley Kibor
                                                        
-### Hi there 👋, [<img src='(https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif' alt='hand' height='40'>]
+### Hi there 👋, 
 
 ![]([http://i.imgur.com/Ssfp7.gif](https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif))
 
