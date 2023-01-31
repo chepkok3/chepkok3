@@ -1,6 +1,6 @@
 ### Hi, I am Stanley Kibor
                                                        
-### Hi there 👋, 
+### Hi there 👋, ![](hi.gif)
 
 [<img align="center" border = '12px' src='Stanley Kibor (1).png' alt='github' height='200'>](https://github.com/chepkok3)
 
