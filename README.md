@@ -2,7 +2,7 @@
                                                        
 ### Hi there 👋, ![](giphy.gif)
 
-[<img align="center" src='Stanley Kibor (1).png' alt='github' height='200'>](https://github.com/chepkok3)
+<p align="center">[<img src='Stanley Kibor (1).png' alt='github' height='200'>](https://github.com/chepkok3)</p>
 
 ![]([http://i.imgur.com/Ssfp7.gif](https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif))
 
