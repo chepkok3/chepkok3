@@ -2,6 +2,8 @@
                                                        
 ### Hi there 👋, Stanley Kibor
 
+[Twitter](https://twitter.com/stanleykibor3)
+
 ![Web Design and Development](a full-time student at Microverse. Currently learning and working with JavaScript, React, and Bootstrap.)
 
 ###More about me
