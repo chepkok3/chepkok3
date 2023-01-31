@@ -6,10 +6,8 @@
 
 ###More about me
 
-- 🔭 I’m currently working on JS and React 
-- 🌱 I’m currently learning JS, React, Ruby, Rails at Microverse 
-- 👯 I’m looking to collaborate on JavaScript 
-- 🤔 I’m looking for help with JS 
+- 🌱 I’m currently studying at Microverse 
+- 👯 I’m looking to collaborate on JavaScript and Web Dev Projects 
 - 😄 Pronouns: Mr 
 - ⚡ Fun fact: I like and playing and watching football 
 
