@@ -1,12 +1,12 @@
 ### Hi, I am Stanley Kibor
                                                        
-### Hi there 👋, Stanley Kibor###
+### Hi there 👋, Stanley Kibor
 
 [Twitter](https://twitter.com/stanleykibor3).  [LinkedIn](https://www.linkedin.com/in/kibor-stanley-350b8a123/)
 
 ![Web Design and Development](a full-time student at Microverse. Currently learning and working with JavaScript, React, and Bootstrap.)
 
-###More about me
+### More about me
 
 - 🌱 I’m currently studying at Microverse 
 - 👯 I’m looking to collaborate on JavaScript and Web Dev Projects 
