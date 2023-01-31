@@ -1,6 +1,6 @@
 ### Hi, I am Stanley Kibor
                                                        
-### Hi there 👋, [<img align="center" src='hi.gif' alt='github' height='200'>](https://github.com/chepkok3)
+### Hi there 👋, <iframe src="giphy.gif" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/E1w0yvMxBIv5M8WkL8">via GIPHY</a></p>
 
 [<img align="center" src='Stanley Kibor (1).png' alt='github' height='200'>](https://github.com/chepkok3)
 
@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I like and playing and watching football 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' align="center" height='40'>](https://github.com/chepkok3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kibor-stanley-350b8a123//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@stanleykibor3)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chepkok3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kibor-stanley-350b8a123//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@stanleykibor3)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chepkok3)](https://github.com/anuraghazra/github-readme-stats)
 
