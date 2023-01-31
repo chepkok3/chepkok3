@@ -1,6 +1,6 @@
 ### Hi, I am Stanley Kibor
                                                        
-### Hi there 👋, 
+### Hi there 👋, https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif
 
 [Twitter](https://twitter.com/stanleykibor3).  [LinkedIn](https://www.linkedin.com/in/kibor-stanley-350b8a123/)
 
