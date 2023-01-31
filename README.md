@@ -1,6 +1,9 @@
 ### Hi, I am Stanley Kibor
                                                        
 ### Hi there 👋, 
+
+[<img src='Stanley Kibor (1).png' alt='github' height='40'>](https://github.com/chepkok3)
+
 ![]([http://i.imgur.com/Ssfp7.gif](https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif))
 
 [Twitter](https://twitter.com/stanleykibor3).  [LinkedIn](https://www.linkedin.com/in/kibor-stanley-350b8a123/)
