@@ -1,6 +1,6 @@
 ### Hi, I am Stanley Kibor
                                                        
-### Hi there 👋, [<img src='[(https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif)' alt='hand' height='40'>]
+### Hi there 👋, [<img src='(https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif' alt='hand' height='40'>]
 
 [Twitter](https://twitter.com/stanleykibor3).  [LinkedIn](https://www.linkedin.com/in/kibor-stanley-350b8a123/)
 
