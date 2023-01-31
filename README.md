@@ -2,6 +2,8 @@
                                                        
 ### Hi there 👋, [<img src='(https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif' alt='hand' height='40'>]
 
+![]([http://i.imgur.com/Ssfp7.gif](https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif))
+
 [Twitter](https://twitter.com/stanleykibor3).  [LinkedIn](https://www.linkedin.com/in/kibor-stanley-350b8a123/)
 
 ![Web Design and Development](a full-time student at Microverse. Currently learning and working with JavaScript, React, and Bootstrap.)
