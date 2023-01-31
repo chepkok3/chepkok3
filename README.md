@@ -1,10 +1,10 @@
-### Hi, I am Stanley Kibor
+                                                             ### Hi, I am Stanley Kibor
                                                        
-### Hi there 👋, 
+                                                                ### Hi there 👋, 
 
-![]([http://i.imgur.com/Ssfp7.gif](https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif))
+                                                      ![]([http://i.imgur.com/Ssfp7.gif](https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif))
 
-[Twitter](https://twitter.com/stanleykibor3).  [LinkedIn](https://www.linkedin.com/in/kibor-stanley-350b8a123/)
+                                                      [Twitter](https://twitter.com/stanleykibor3).  [LinkedIn](https://www.linkedin.com/in/kibor-stanley-350b8a123/)
 
 ![Web Design and Development](a full-time student at Microverse. Currently learning and working with JavaScript, React, and Bootstrap.)
 
