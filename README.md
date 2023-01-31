@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently studying at Microverse 
 - 👯 I’m looking to collaborate on JavaScript and Web Dev Projects 
-- 😄 Pronouns: Mr 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like and playing and watching football 
 
 
