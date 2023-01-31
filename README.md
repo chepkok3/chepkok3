@@ -1,6 +1,6 @@
 ### Hi, I am Stanley Kibor
                                                        
-### Hi there 👋, Stanley Kibor
+### Hi there 👋, ![image](https://user-images.githubusercontent.com/78428936/215672877-cf91cc5b-669b-40a4-b9e8-c810e88b7c90.png)
 
 [Twitter](https://twitter.com/stanleykibor3).  [LinkedIn](https://www.linkedin.com/in/kibor-stanley-350b8a123/)
 
